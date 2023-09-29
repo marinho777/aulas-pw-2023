@@ -1,0 +1,16 @@
+body{
+	background-color: #484f58;
+}
+.ns{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: Roboto;
+}
+input{
+    font-size: 30px;
+}
+#credito{
+    display: flex;
+}
+
